@@ -1,0 +1,151 @@
+
+<html>
+<head>
+<title> div creation </title>
+
+<style>
+.blancasa {
+display:flex;
+flex-wrap:wrap;
+gap:17px;
+}
+
+.casa {
+width:22%;
+}
+
+.casa img{
+width:100%;
+}
+
+
+.hombres {
+display:flex;
+flex-wrap:wrap;
+gap:15px;
+}
+
+.face {
+width:24%;
+}
+
+.face img{
+width:100%;
+}
+
+.topper img{
+width:100%;
+}
+h1{
+color:blue;
+}
+
+</style>
+</head>
+
+<body>
+<div class="stack developement">
+<img
+src ="https://www.w3schools.com/w3images/architect.jpg">
+</div>
+
+
+<div class="project">
+<h1>PROJECT</h1>
+</div>
+
+
+<div class="hombres">
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house5.jpg">
+</div>
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house4.jpg">
+</div>
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house3.jpg">
+</div>
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house4.jpg">
+</div>
+
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house2.jpg">
+</div>
+
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house5.jpg">
+</div>
+
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house2.jpg">
+</div>
+
+
+
+<div class="casa">
+<img
+src ="https://www.w3schools.com/w3images/house3.jpg">
+</div>
+</div>
+
+<div class="about">
+    <h1>About</h1>
+    <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi 
+        ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
+        deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+        commodo consequat.</h2>
+</div>
+
+
+<div class="blancasa">
+<div class="face">
+<img
+src ="https://www.w3schools.com/w3images/team2.jpg">
+<h2> John Doe</h2>
+</div>
+
+<div class="face">
+<img
+src ="https://www.w3schools.com/w3images/team1.jpg">
+<h2> John Doe</h2>
+</div>
+
+<div class="face">
+<img
+src ="https://www.w3schools.com/w3images/team3.jpg">
+<h2> Mike Ross</h2>
+</div>
+
+<div class="face">
+<img
+src ="https://www.w3schools.com/w3images/team4.jpg">
+<h2> Dan Star</h2>
+</div>
+</div>
+
+
+</body>
+</html>
